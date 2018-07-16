@@ -1,0 +1,19 @@
+{
+  "name": "origami",
+  "version": "0.0.0",
+  "description": "💠 React components for CampVanilla Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditi Mohanty <rheaditi@users.noreply.github.com> (http://aditimohanty.com/)",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campvanilla/origami.git"
+  },
+  "bugs": {
+    "url": "https://github.com/campvanilla/origami/issues"
+  },
+  "homepage": "https://github.com/campvanilla/origami#readme"
+}
